@@ -1,10 +1,10 @@
 # Huhu-command
 Huhu命令行存取工具，自动存储命令行，使用缩写或标签快速取用！
-
+![功能动图]（https://github.com/Hi-Commander/Huhu-command/blob/main/image/future.gif）
 
 
 # **下载安装**
-系统环境： macOS 10.13 +
+系统环境： mgacOS 10.13 +
 
 适用于 Terminal、iTerm2 等常见终端软件
 
