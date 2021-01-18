@@ -1,6 +1,7 @@
 # Huhu-command
 Huhu命令行存取工具，自动存储命令行，使用缩写或标签快速取用！
-![功能动图](https://github.com/Hi-Commander/Huhu-command/blob/main/image/future.gif)
+
+![演示动图](https://github.com/Hi-Commander/Huhu-command/blob/main/image/future.gif)
 
 
 # **下载安装**
@@ -22,13 +23,17 @@ Huhu命令行存取工具，自动存储命令行，使用缩写或标签快速�
 
 1.使用命令行首字母缩写调用历史记录（命令行选取为快捷键ctrl+·）
  
+![操作](https://github.com/Hi-Commander/Huhu-command/blob/main/image/image1.png)
 
 2.在Main page为某命令设置标签/笔记
 
+![操作](https://github.com/Hi-Commander/Huhu-command/blob/main/image/image2.png)
+
+![操作](https://github.com/Hi-Commander/Huhu-command/blob/main/image/image3.png)
  
 3.在terminal界面行首输入“?”，进行关键词模糊搜索调用，获得目标命令
  
-
+![操作](https://github.com/Hi-Commander/Huhu-command/blob/main/image/image4.png)
 
 # **获得帮助**
 邮件：hi@huhu.io
